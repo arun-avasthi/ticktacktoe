@@ -1,0 +1,23 @@
+{
+  "name": "ticktacktoe-main",
+  "version": "1.0.0",
+  "description": "A classic Tic Tac Toe game built with vanilla HTML, CSS, and JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "keywords": [
+    "tic-tac-toe",
+    "game",
+    "javascript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@jest/globals": "^30.5.2",
+    "jest": "^30.5.2",
+    "jest-environment-jsdom": "^30.5.2",
+    "jsdom": "^29.1.1"
+  }
+}
